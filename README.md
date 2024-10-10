@@ -1,7 +1,6 @@
 ## Tugas Individu 3- Perulangan
 
-Nama : Eko Ramadani
-
+Nama : Eko Ramadani;
 Teknik Informatika B
 
 
