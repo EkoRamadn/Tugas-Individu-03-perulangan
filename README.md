@@ -2,3 +2,6 @@
 Nama: Eko Ramadani
 
 Teknik Informatika B
+
+vidio:
+[Tonton Video Lengkap di YouTube]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/QNDfKpXggBE))
